@@ -1,7 +1,12 @@
 # port2023-vue
 
+# 유튜브
 
-[강의]
+https://www.youtube.com/@user-gn2mw4lm4m/videos  [데브리]
+
+
+# 강의
+
 https://webstoryboy.co.kr/1964
 
 # 포트폴리오 사이트 만들기 프로젝트
